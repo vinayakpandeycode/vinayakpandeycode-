@@ -52,3 +52,6 @@
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+![Image](https://github.com/user-attachments/assets/63a1d278-4031-4554-9852-01067ecff409)
+
+![Image](https://github.com/user-attachments/assets/5515d340-cb3a-4f2d-bfa6-248f9b892825)
